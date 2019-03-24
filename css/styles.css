@@ -1,3 +1,36 @@
+.mainBox {
+    width: 100%;
+    position: absolute;
+    top: 50px;
+    bottom: 0;
+}
+.mainBox .leftBox {
+    height: 500%;
+    width: 240px;
+    float: left;
+    margin-left: 20px;
+    overflow: auto;
+}
+.mainBox .rightBox {
+    height: 100%;
+    margin-left: 0px;
+    
+    padding-right: 1px;
+    padding-left: 1px;
+}
+
+.vertical-menu {
+  width: 200px; /* Set a width if you like */
+}
+.vertical-menu a {
+  color: white; /* Black text color */
+  display: inline-block; /* Make the links appear below each other */
+  text-decoration: none; /* Remove underline from links */
+}
+.vertical-menu a.active {
+  color: white;
+}
+
 
 div.centered_content {
   
