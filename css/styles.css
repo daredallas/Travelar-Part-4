@@ -1,0 +1,101 @@
+
+div.centered_content {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  margin-top: 10%;
+
+
+  max-width: 90%;
+
+  text-align: center;
+  color: white;
+  
+  
+}
+
+div.p {
+  font-family: "Open Sans";
+  color: white;
+  font-size: 90%;
+
+}
+
+#signature {
+  font-family: "Open Sans";
+  color: white;
+ 
+  margin-bottom: 40px;
+  font-style: italic;
+  
+}
+
+#menu {
+  width: 700px;
+  max-width: 90%;
+}
+
+.other-color {
+  color: #59a596;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Open Sans";
+  color: white;
+  font-size: 400%;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-family: "Open Sans";
+  color: white;
+  margin: 100px, 10px , 10px , 10px;
+}
+
+h3 {
+  font-family: "Open Sans";
+  color: white;
+
+}
+
+p {
+  font-family: "Open Sans Light";
+  color: white;
+  font-size: 100%;
+  padding-right: auto;
+  padding-left: auto;
+
+}
+
+html {
+  
+    background: url(https://raw.githubusercontent.com/daredallas/Travelar/master/images/2017-08-18%2014.47.21.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: #1c1c1c;
+  /* background-position: center center; > */              /* optional, center the image */
+}
+
+
+a {
+  color: white;
+  font-family: "Open Sans";
+  text-decoration: none;
+  font-size: 105%;
+}
+
+a:hover {
+  color: #c1c1c1 ;
+}
+
+.avatar {
+  
+  height: 300px;
+  width: 180px;
+
+}
