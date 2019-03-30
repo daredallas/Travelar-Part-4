@@ -21,6 +21,11 @@
     padding-left: 1px;
 }
 
+img {
+
+	height = 500px
+}
+
 ol {
   font-family: "Open Sans";
 }
@@ -103,7 +108,7 @@ h3 {
 }
 
 p {
-  font-family: "Open Sans Light";
+  font-family: "Open Sans";
   color: white;
   font-size: 100%;
   padding-right: auto;
